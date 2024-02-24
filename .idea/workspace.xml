@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/Campaing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/Campaing.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/LambdaCalc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/LambdaCalc.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708677610538</updated>
       <workItem from="1708677611566" duration="16777000" />
-      <workItem from="1708765642341" duration="13068000" />
+      <workItem from="1708765642341" duration="14293000" />
     </task>
     <servers />
   </component>
