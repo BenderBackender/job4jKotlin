@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/base/Parking.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/oop/Cash.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/oop/SimpleLinkedList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/oop/Student.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/oop/Profession.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/oop/Profession.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +71,7 @@
       <recent name="C:\Users\ART PRONKIN\Desktop\idea\Kotlin\1\MyFirstKotlinProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SimpleLinkedListTest">
+  <component name="RunManager" selected="Gradle.SimpleLinkedListTest.Must_CorrectIteratorJob_WhenUseIterator">
     <configuration name="SimpleLinkedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -93,6 +86,30 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;ru.job4j.base.SimpleLinkedListTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SimpleLinkedListTest.Must_CorrectIteratorJob_WhenUseIterator" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.job4j.base.SimpleLinkedListTest.Must_CorrectIteratorJob_WhenUseIterator&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -175,20 +192,13 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="SimpleLinkedListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.oop.SimpleLinkedListKt" />
-      <module name="MyFirstKotlinProject.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SimpleLinkedListTest.Must_CorrectIteratorJob_WhenUseIterator" />
         <item itemvalue="Gradle.SimpleLinkedListTest" />
         <item itemvalue="Gradle.SimpleLinkedListTest.Must_ReturnFalseValue_WhenListNotContainsSearchElement" />
         <item itemvalue="Gradle.SimpleLinkedListTest.Must_ReturnIndexLastElement_WhenListContainsSearchElement" />
         <item itemvalue="Gradle.SimpleLinkedListTest.linkedListTest" />
-        <item itemvalue="Kotlin.SimpleLinkedListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +211,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708677610538</updated>
       <workItem from="1708677611566" duration="16777000" />
-      <workItem from="1708765642341" duration="2754000" />
+      <workItem from="1708765642341" duration="3417000" />
     </task>
     <servers />
   </component>
