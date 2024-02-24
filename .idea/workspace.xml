@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="" />
+    <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/Campaing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/Campaing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/LambdaCalc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/lambda/LambdaCalc.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,20 +97,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AccountLambdaTest.must_ReturnIvanWithPositiveBalance_WhenFilterList">
-    <configuration name="StartClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StartClass" />
-      <module name="MyFirstKotlinProject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.LambdaCalcKt">
     <configuration name="AccountLambdaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -155,6 +146,13 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="CampaingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.lambda.CampaingKt" />
+      <module name="MyFirstKotlinProject.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LambdaCalcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.job4j.lambda.LambdaCalcKt" />
       <module name="MyFirstKotlinProject.main" />
@@ -171,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LambdaCalcKt" />
+        <item itemvalue="Kotlin.CampaingKt" />
         <item itemvalue="Gradle.AccountLambdaTest.must_ReturnIvanWithPositiveBalance_WhenFilterList" />
         <item itemvalue="Gradle.AccountLambdaTest" />
-        <item itemvalue="Kotlin.LambdaCalcKt" />
         <item itemvalue="Kotlin.NumIncKt" />
-        <item itemvalue="Application.StartClass (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708677610538</updated>
       <workItem from="1708677611566" duration="16777000" />
-      <workItem from="1708765642341" duration="10478000" />
+      <workItem from="1708765642341" duration="13068000" />
     </task>
     <servers />
   </component>
