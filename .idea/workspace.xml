@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="" />
+    <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,12 +48,12 @@
   <component name="GitRewordedCommitMessages">
     <option name="commitMessagesMapping">
       <RewordedCommitMessageMapping>
-        <option name="originalMessage" value="Professional class is Done" />
-        <option name="rewordedMessage" value="Professional class is Done" />
+        <option name="originalMessage" value="Build HTML table class with function apply Done" />
+        <option name="rewordedMessage" value="Build HTML table class with function apply Done" />
       </RewordedCommitMessageMapping>
     </option>
     <option name="currentCommit" value="1" />
-    <option name="onto" value="caccc44962e652a24901d29460f827e2517bc1ee" />
+    <option name="onto" value="c9bd50ebfbff56c7f586db375a2567b80986520f" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -93,7 +95,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LambdaCalcKt">
+  <component name="RunManager" selected="Gradle.KotlinCollectionTest.listTest">
     <configuration name="AccountLambdaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -142,6 +144,30 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="KotlinCollectionTest.listTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.job4j.KotlinCollectionTest.listTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="CampaingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.job4j.lambda.CampaingKt" />
       <module name="MyFirstKotlinProject.main" />
@@ -156,20 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumIncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.oop.NumIncKt" />
-      <module name="MyFirstKotlinProject.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.KotlinCollectionTest.listTest" />
         <item itemvalue="Kotlin.LambdaCalcKt" />
         <item itemvalue="Kotlin.CampaingKt" />
         <item itemvalue="Gradle.AccountLambdaTest.must_ReturnIvanWithPositiveBalance_WhenFilterList" />
         <item itemvalue="Gradle.AccountLambdaTest" />
-        <item itemvalue="Kotlin.NumIncKt" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708677610538</updated>
       <workItem from="1708677611566" duration="16777000" />
-      <workItem from="1708765642341" duration="14729000" />
+      <workItem from="1708765642341" duration="16267000" />
     </task>
     <servers />
   </component>
