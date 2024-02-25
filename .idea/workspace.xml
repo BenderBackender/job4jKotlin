@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="" />
+    <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,31 +96,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BankServiceKt">
-    <configuration name="AccountLambdaTest.must_ReturnIvanWithPositiveBalance_WhenFilterList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;ru.job4j.lambda.AccountLambdaTest.must_ReturnIvanWithPositiveBalance_WhenFilterList&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PurchaseKt">
     <configuration name="KotlinCollectionTest.listTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -164,13 +142,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PurchaseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.npe.PurchaseKt" />
+      <module name="MyFirstKotlinProject.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PurchaseKt" />
         <item itemvalue="Kotlin.BankServiceKt" />
         <item itemvalue="Gradle.KotlinCollectionTest.listTest" />
         <item itemvalue="Kotlin.LambdaCalcKt" />
         <item itemvalue="Kotlin.CampaingKt" />
-        <item itemvalue="Gradle.AccountLambdaTest.must_ReturnIvanWithPositiveBalance_WhenFilterList" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708677610538</updated>
       <workItem from="1708677611566" duration="16777000" />
-      <workItem from="1708765642341" duration="20937000" />
+      <workItem from="1708765642341" duration="23119000" />
     </task>
     <servers />
   </component>
