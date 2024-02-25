@@ -18,7 +18,7 @@ class SimpleLinkedListTest {
     }
 
     @Test
-    fun Must_CorrectValue_WhenListAddValue() {
+    fun Must_ReturnCorrectValue_WhenListAddValue() {
         for (i in 0..10) {
             assertThat(list.get(i)).isEqualTo(i)
         }
@@ -26,11 +26,17 @@ class SimpleLinkedListTest {
 
     @Test
     fun Must_CorrectIteratorJob_WhenUseIterator() {
-        val iterator = list.iterator()
+        val iterator = list.LinkedListIt()
         for (i in 0..10) {
             assertThat(iterator.next()).isEqualTo(i)
         }
+        assertThat(iterator.index).isEqualTo(10)
         assertFailsWith<java.util.NoSuchElementException> { iterator.next() }
+        for (i in 9 downTo 0) {
+            assertThat(iterator.previous()).isEqualTo(i)
+        }
+        assertThat(iterator.index).isEqualTo(0)
+        assertFailsWith<java.util.NoSuchElementException> { iterator.previous() }
     }
 
     @Test
