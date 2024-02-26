@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="002652d8-a0ba-4ce8-9979-7eb2f235073c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/npe/BankService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ru/job4j/npe/BankService.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
